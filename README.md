@@ -19,6 +19,15 @@ Stock-Analysis/
 
 ---
 
+MAKE SURE TO INSTALL THIS ON YOUR CONSOLE
+
+# pip install pandas polars scikit-learn ta matplotlib seaborn pyarrow fastparquet
+# pip install pandas polars scikit-learn ta matplotlib seaborn pyarrow fastparquet
+# pip install xgboost
+# pip install streamlit dash plotly
+# streamlit run dashboard.py
+
+
 
 I added a main.py but I still recommend to run the jupyter notebook files independently as Im having trouble running it all at once
 
