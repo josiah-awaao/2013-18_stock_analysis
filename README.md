@@ -19,6 +19,17 @@ Stock-Analysis/
 
 ---
 
+
+I added a main.py but I still recommend to run the jupyter notebook files independently as Im having trouble running it all at once
+
+Once the generated files has been created from each of the files kindly run this from your python console
+
+streamlit run src/dashboard.py
+or
+streamlit run dashboard.py
+
+PS. All the dependencies to be installed is commented in the jupyter files the pip installs it is also mentioned in the readme file
+
 ## Installation
 ### ** 1 Install Dependencies**
 ```sh
